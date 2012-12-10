@@ -20,8 +20,8 @@ PrsServoManager
 使用方法
 --------
 　　　(1)Pirkus社製サーボモータを使用したロボットとPCを以下のように接続します。  
-　　　　　　　　[![画像3][image3]]()
-[image3]:
+　　　　　　　　[![画像3][image3]](https://github.com/downloads/s-ryuki/Pictures/PC-PrsRobot.png)
+[image3]:https://github.com/downloads/s-ryuki/Pictures/PC-PrsRobot.png
 　　　(2)接続したCOMポート番号を確認し、servomanager.iniを編集します。  
 　　　(3)servomoter.iniのサーボモータの各情報を編集し、保存します。  
 　　　　　　　　[![画像4][image4]](https://github.com/downloads/s-ryuki/Pictures/PrsServoManager_ini.png)
