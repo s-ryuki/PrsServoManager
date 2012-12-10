@@ -6,8 +6,8 @@ PrsServoManager
 　  
 コンポーネントの仕様
 --------------------
-　　　　[![画像1][image1]]()
-[image1]:
+　　　　[![画像1][image1]](https://github.com/downloads/s-ryuki/Pictures/PrsServoManager_Comm.png)
+[image1]:https://github.com/downloads/s-ryuki/Pictures/PrsServoManager_Comm.png
 
 　　このコンポーネントはInPortをMotionLoader、MotionEditor、またはそれに準ずるコンポーネントから  
 　コマンドを受け取ります。そのコマンドをPirkus社製のコマンド式サーボモータに沿ったをものに変換をし、  
@@ -27,11 +27,14 @@ PrsServoManager
 　　　　　　　　[![画像4][image4]](https://github.com/downloads/s-ryuki/Pictures/PrsServoManager_ini.png)
 [image4]:https://github.com/downloads/s-ryuki/Pictures/PrsServoManager_ini.png
 ####　　　　画面説明####
-　　　　　　　①
-　　　　　　　②
-　　　　　　　③
-　　　　　　　④
-　　　　　　　⑤
+　　　　　　　①使用するCOMポート番号  
+　　　　　　　②使用するサーボモータの通信ボーレート  
+　　　　　　　③モーションのstep数  
+　　　　　　　④サーボの個数  
+　　　　　　　⑤センサ値をShellに表示する/しない  
+　　　　　　　⑥サーボモータのIDと番号  
+　　　　　　　⑦サーボモータの可動域およびオフセット  
+　  
 　　　(4)PrsServoManager.pyを起動します。  
 　　　(5)RTSytemEditor上で「モーション再生モード」で使用する場合はMotionLoader、  
 　　　「モーション編集モード」で使用する場合はMotionEditorと繋ぎます。  
