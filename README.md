@@ -29,6 +29,6 @@ PrsServoManager
 　　　(4)PrsServoManager.pyを起動します。  
 　　　(5)RTSytemEditor上で「モーション再生モード」で使用する場合はMotionLoader、  
 　　　「モーション編集モード」で使用する場合はMotionEditorと繋ぎます。  
-　　　
+　  
 　Pirkus社製のコマンド式サーボモータPRS-M07S、PRS-M40Sのハードウェアマニュアルはこちらからご覧ください。  
 　　　　　[PRS-DE07MS/PRS-S40Mマニュアル]()
