@@ -31,4 +31,4 @@ PrsServoManager
 　　　「モーション編集モード」で使用する場合はMotionEditorと繋ぎます。  
 　  
 　Pirkus社製のコマンド式サーボモータPRS-M07S、PRS-M40Sのハードウェアマニュアルはこちらからご覧ください。  
-　　　　　[PRS-DE07MS/PRS-S40Mマニュアル]()
+　　　　　[PRS-DE07MS/PRS-S40Mマニュアル](https://github.com/downloads/s-ryuki/HardwareManual/PRS-DE07MS_PRS-S40M_%E7%AC%AC%E5%9B%9B%E7%89%88.pdf)
