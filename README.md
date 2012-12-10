@@ -24,8 +24,14 @@ PrsServoManager
 [image3]:
 　　　(2)接続したCOMポート番号を確認し、servomanager.iniを編集します。  
 　　　(3)servomoter.iniのサーボモータの各情報を編集し、保存します。  
-　　　　　　　　[![画像4][image4]]()
-[image4]:
+　　　　　　　　[![画像4][image4]](https://github.com/downloads/s-ryuki/Pictures/PrsServoManager_ini.png)
+[image4]:https://github.com/downloads/s-ryuki/Pictures/PrsServoManager_ini.png
+####　　　　画面説明####
+　　　　　　　①
+　　　　　　　②
+　　　　　　　③
+　　　　　　　④
+　　　　　　　⑤
 　　　(4)PrsServoManager.pyを起動します。  
 　　　(5)RTSytemEditor上で「モーション再生モード」で使用する場合はMotionLoader、  
 　　　「モーション編集モード」で使用する場合はMotionEditorと繋ぎます。  
